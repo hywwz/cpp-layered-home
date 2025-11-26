@@ -1,0 +1,15 @@
+[submodule "cpp-layered-l3-exchange"]
+	path = cpp-layered-l3-exchange
+	url = https://github.com/hywwz/cpp-layered-l3-exchange.git
+[submodule "cpp-layered-l3-http"]
+	path = cpp-layered-l3-http
+	url = https://github.com/hywwz/cpp-layered-l3-http.git
+[submodule "cpp-layered-l2-vector"]
+	path = cpp-layered-l2-vector
+	url = https://github.com/hywwz/cpp-layered-l2-vector.git
+[submodule "cpp-layered-l2-bank"]
+	path = cpp-layered-l2-bank
+	url = https://github.com/hywwz/cpp-layered-l2-bank.git
+[submodule "cpp-layered-l1-snippet"]
+	path = cpp-layered-l1-snippet
+	url = https://github.com/hywwz/cpp-layered-l1-snippet.git
